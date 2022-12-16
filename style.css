@@ -7,11 +7,26 @@
 body{
     background-color: cornsilk;
     font-family: IBM-Plex-Sans, sans-serif;
+}
+
+.quiz-outer{
     align-items: center;
     display: flex;
     overflow: hidden;
     margin: 0;
-    height: 100rem;
+    height: 200px;
     justify-content: center;
-
 }
+
+.quiz-box{
+    border-radius: 10px;
+    width: 500px;
+    box-shadow: 0 0 10px 2px ;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: slategray;
+    border: 1px solid black;
+}
+
+
+
