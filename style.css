@@ -14,7 +14,7 @@ body{
     display: flex;
     overflow: hidden;
     margin: 0;
-    height: 200px;
+    height: 220px;
     justify-content: center;
 }
 
@@ -28,5 +28,22 @@ body{
     border: 1px solid black;
 }
 
+#submit{
+    width: 50%;
+    background-color: aquamarine;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    font-family: inherit;
+    text-transform: uppercase;
+}
 
+ul{
+    list-style: upper-alpha;
+}
+
+ul li{
+    cursor: pointer;
+    padding: 5px;
+}
 
