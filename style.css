@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,300&family=Unbounded&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cornsilk;
+    font-family: IBM-Plex-Sans, sans-serif;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    margin: 0;
+    height: 100rem;
+    justify-content: center;
+
+}
